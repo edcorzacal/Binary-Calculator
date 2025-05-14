@@ -1,3 +1,5 @@
+1st Year 1st sem Final
+
 # Binary Calculator
 
 This is a simple binary calculator implemented in C++. It allows you to perform basic arithmetic operations (addition, subtraction, multiplication, division) on binary numbers.
